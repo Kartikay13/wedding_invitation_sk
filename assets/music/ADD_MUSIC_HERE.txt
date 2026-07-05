@@ -1,0 +1,7 @@
+Add one MP3 file named exactly:
+
+  music.mp3
+
+It will play automatically the moment a guest taps to open the invitation.
+See the README.md "Adding music" section for royalty-free source suggestions.
+Delete this text file once you've added music.mp3 (it won't be shown on the site).

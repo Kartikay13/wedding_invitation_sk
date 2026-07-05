@@ -1,0 +1,18 @@
+Put your photos in this folder with these exact filenames:
+
+  engagement.jpg   -> Our Story section (left photo, portrait frame)
+  couple.jpg       -> Our Story section (right photo, landscape frame)
+  family-groom.jpg  -> Our Families section: Kartikay with his parents
+  family-bride.jpg  -> Our Families section: Shivani's family
+  photo1.jpg        \
+  photo2.jpg         \
+  photo3.jpg          \
+  photo4.jpg           > Gallery grid (portrait frames)
+  photo5.jpg          /
+  photo6.jpg          /
+  hero-share.jpg   -> shown as the link preview thumbnail on WhatsApp/social
+                      (resize to ~1200x800px, under ~300KB, before adding)
+
+Until a file is added, that spot shows a placeholder frame with its expected
+filename, so the page still looks finished. Delete this text file once you've
+added your photos (it won't be shown on the site either way).
